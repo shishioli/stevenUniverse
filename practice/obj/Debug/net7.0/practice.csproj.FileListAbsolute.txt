@@ -1,0 +1,14 @@
+C:\Users\Elaiii\Desktop\practice\bin\Debug\net7.0\practice.exe
+C:\Users\Elaiii\Desktop\practice\bin\Debug\net7.0\practice.deps.json
+C:\Users\Elaiii\Desktop\practice\bin\Debug\net7.0\practice.runtimeconfig.json
+C:\Users\Elaiii\Desktop\practice\bin\Debug\net7.0\practice.dll
+C:\Users\Elaiii\Desktop\practice\bin\Debug\net7.0\practice.pdb
+C:\Users\Elaiii\Desktop\practice\obj\Debug\net7.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elaiii\Desktop\practice\obj\Debug\net7.0\practice.AssemblyInfoInputs.cache
+C:\Users\Elaiii\Desktop\practice\obj\Debug\net7.0\practice.AssemblyInfo.cs
+C:\Users\Elaiii\Desktop\practice\obj\Debug\net7.0\practice.csproj.CoreCompileInputs.cache
+C:\Users\Elaiii\Desktop\practice\obj\Debug\net7.0\practice.dll
+C:\Users\Elaiii\Desktop\practice\obj\Debug\net7.0\refint\practice.dll
+C:\Users\Elaiii\Desktop\practice\obj\Debug\net7.0\practice.pdb
+C:\Users\Elaiii\Desktop\practice\obj\Debug\net7.0\practice.genruntimeconfig.cache
+C:\Users\Elaiii\Desktop\practice\obj\Debug\net7.0\ref\practice.dll
